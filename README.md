@@ -1,3 +1,4 @@
+_Not in use anymore. Replaced by my own RBM implementation https://github.com/sdverkoelen/RBM_
 
 An extention to the work of Zach Mayer (https://github.com/zachmayer/rbm)
 
